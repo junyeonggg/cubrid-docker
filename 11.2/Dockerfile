@@ -1,3 +1,6 @@
+## 아래 URL 에 큐브리드 pull
+## https://hub.docker.com/r/cubrid/cubrid/tags?utm_source=chatgpt.com
+
 # CentOS 7 기반
 FROM centos:7
 
@@ -47,3 +50,6 @@ ENTRYPOINT ["/entrypoint.sh"]
 
 # 포트 40000 노출
 EXPOSE 40000
+
+
+
