@@ -1,6 +1,6 @@
 ## 아래 URL 에 큐브리드 pull
 ## https://hub.docker.com/r/cubrid/cubrid/tags?utm_source=chatgpt.com
-
+# docker run -d --name cubrid  -p 30000:30000   -p 33000:33000  cubrid:11.2.0
 # CentOS 7 기반
 FROM centos:7
 
